@@ -1,0 +1,29 @@
+{
+  "goods": [
+    {
+      "id": 1,
+      "name": "Indomie",
+      "price": 12000
+    },
+    {
+      "id": 2,
+      "name": "Sedap",
+      "price": 15000
+    },
+    {
+      "id": 3,
+      "name": "Geprek",
+      "price": 25000
+    },
+    {
+      "id": 4,
+      "name": "Sunlight",
+      "price": 4000
+    },
+    {
+      "id": 5,
+      "name": "Pop Ice",
+      "price": 4000
+    }
+  ]
+}
